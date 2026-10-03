@@ -1,0 +1,9 @@
+.vercel
+.env*
+
+# Configuración local
+.claude/
+
+# Material de referencia copiado de Booking (no es parte de la web)
+/Hotel Suite Royal, Melgar*
+/[0-9]*.jpg
